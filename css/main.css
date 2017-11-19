@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  text-transform: capitalize;
+  font-size: 80px;
+  color: teal;
+  display: none;
+}
+
+p {
+  font-size: 20px;
+  border: 3px solid black;
+  border-radius: 10px;
+  max-width: 20%;
+  float: left;
+
+}
+
+label {
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+.form {
+  width: 900px;
+  float: left;
+}
+
+output {
+  width: 20%;
+  float: left;
+}
+
+h2 {
+  width: 20%;
+  display: none;
+  float: left;
+  font-size: 40px;
+}
